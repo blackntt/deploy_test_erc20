@@ -1,0 +1,12 @@
+node_modules
+.idea
+
+#Hardhat files
+cache
+artifacts
+.env
+
+local.script.sh
+abi/
+config.json
+*.config.json
